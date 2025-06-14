@@ -133,7 +133,7 @@ while True:
         computer_wins += 1
 
     elif round_winner == "Try again":
-        print("\nThat was an invalid choice! Try again!\n")
+        print("\nthat was an invalid choice! Try again!\n")
 
     else:
 
